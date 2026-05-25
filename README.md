@@ -13,7 +13,7 @@ The Car Wash Management System is a comprehensive, desktop-based application des
 > 1. **Upload to YouTube/Vimeo:** Upload your video there and paste the link below.
 > 2. **Upload directly to GitHub:** Drag and drop your `.mp4` video file directly into this README while editing it on GitHub, or place the video file in an `assets` folder and link to it here.
 *Add your demo video here:*
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) 
+[![Watch the Demo](https://www.youtube.com/watch?v=bM63a0n5pAc)
 *(Replace `YOUR_VIDEO_ID` with the actual video ID, or replace this section with your uploaded video link)*
 ## Technologies Used
 - **Language:** Java
