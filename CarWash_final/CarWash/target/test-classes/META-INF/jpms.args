@@ -1,0 +1,4 @@
+--patch-module
+oop.carwash=_
+--add-reads
+oop.carwash=ALL-UNNAMED
