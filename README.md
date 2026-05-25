@@ -10,7 +10,6 @@ The Car Wash Management System is a comprehensive, desktop-based application des
 - **User Management:** Secure access with different roles (e.g., Admin, Cashier).
 ## Demo Video
 [![Watch the Demo] (https://www.youtube.com/watch?v=bM63a0n5pAc)
-*(Replace `YOUR_VIDEO_ID` with the actual video ID, or replace this section with your uploaded video link)*
 ## Technologies Used
 - **Language:** Java
 - **UI Framework:** Java Swing / JavaFX (depending on implementation)
